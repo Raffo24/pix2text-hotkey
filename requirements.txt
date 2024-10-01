@@ -1,0 +1,4 @@
+pix2text
+Pillow
+keyboard
+pyperclip
