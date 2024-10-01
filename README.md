@@ -1,5 +1,5 @@
 # pix2text-hotkey
-A simple script to recognize formulas, pages, and text from clipboard images. 
+A simple script to recognize formulas, pages, and text from clipboard images. <\br>
 The recognized content is automatically copied to the clipboard in the appropriate format.
 
 ## Features
