@@ -36,10 +36,15 @@ The recognized content is automatically copied to the clipboard in the appropria
 
 ## Usage
 
-1. Capture an image to your clipboard.
+1. Capture an image to your clipboard (on windows --> WINDOWS + SHIFT + S).
 2. Use the appropriate shortcut to recognize and copy the content in the desired format.
-3. Paste the content where needed.
+    - `Ctrl + Alt + M`: Recognize and copy the formula in LaTeX format.
+    - `Ctrl + Alt + N`: Recognize and copy the page in Markdown format.
+    - `Ctrl + Alt + K`: Recognize and copy the text in plain text format.
+4. Paste the content where needed.
+## Example Video
 
+https://github.com/user-attachments/assets/8d77e1df-3419-4381-a8ce-f84a6d6493ba
 ## Dependencies
 
 This script relies on the following Python libraries:
